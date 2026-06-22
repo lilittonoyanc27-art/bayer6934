@@ -324,7 +324,7 @@ export const AiCoach: React.FC<AiCoachProps> = ({
       <div className="relative z-10">
         <h3 className="text-lg font-bold mb-1.5 flex items-center gap-2">
           <Sparkles className="w-5 h-5 text-amber-300 animate-pulse" />
-          Ինտելեկտուալ ստուգում (AI Coach)
+          Ինտելեկտուալ ստուգում 
         </h3>
         <p className="text-[11px] text-indigo-100 pb-4">
           Գրեք ձեր պատասխանը իսպաներենով։ AI թյուտորը կվերլուծի քերականությունը և կցուցադրի քննական գնահատականը։
