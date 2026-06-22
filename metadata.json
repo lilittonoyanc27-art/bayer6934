@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Oral Exam Prep",
+  "description": "Приложение для подготовки к устному экзамену по испанскому языку с пресетами вопросов, переводом на армянский, ИИ-проверкой ответов и генерацией похожих вопросов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
